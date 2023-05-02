@@ -1,0 +1,174 @@
+*.containers{
+    padding: 0,35px;
+    display: flex;
+    justify-content: space-between;
+}
+.containers ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+.containers{
+    margin-left: 26%;}
+
+    .part1{
+        display: flex;
+        justify-content: space-between;
+        background-color: blueviolet;
+    }
+
+    .image1 img{
+        width: 700px;
+        height: 500px;
+    
+    }
+    .text1{
+        margin-top: 10%;
+        font-size: xx-large;
+        font-weight: bold;
+        margin-left: 10%;
+
+        
+    }
+    .up{
+        margin-top: 30%;
+        margin-right: 75%;
+        
+    }
+    .button{
+    color: white;
+    background-color: palevioletred;
+    font-size: 150%;
+    }
+    .text2{
+        text-align: center;
+        margin-bottom: 4%;
+    }
+    .text3{
+        justify-content: space-between;
+        text-align: center;
+        margin-bottom:75%;
+    }
+    .models{
+        display: flex;
+        justify-content: space-between;
+        margin-top: -60%;
+    }
+    .mode{
+        width:230px;
+        height: 290px;
+    }
+    .mode1{
+        width: 230px;
+        height: 290px;
+    }
+    .mod{
+        width: 230px;
+        height: 290px;
+    }
+    .mods{
+        width:230px;
+        height: 290px;
+    }
+    .up2{
+        margin-top: 2%;
+        text-align: center;
+        
+
+    }
+    .button1{
+        color: white;
+    background-color: palevioletred;
+    font-size: 120%;
+
+    }
+    .shoes{
+        justify-content: space-between;
+        display: flex;
+    }
+    .girl1{
+        
+        width: 1400px;
+        height: 600px;
+        margin-top: 5%;
+    }
+    .shoe1{
+        width: 700px;
+        height:300px ; 
+    }
+    .shoe2{
+        width: 700px;
+        height: 300px;
+    }
+    .shoegame{
+        margin-left: 3%;
+        margin-top: 5%;
+    }
+    .shop1{
+        margin-top: -20%;
+        margin-left: 3%;
+    }
+.button3{
+    color: white;
+    background-color: palevioletred;
+    font-size: 120%;
+
+}.bold{
+    font-size: 30px; 
+    font-weight:10px ;
+}
+.shop2{
+  margin-left: 55%;
+  margin-top: -31%;
+}
+.button4{
+    color: white;
+    background-color: palevioletred;
+    font-size: 120%;
+}
+.bold1{
+    font-size: 30px; 
+    font-weight:10px ;}
+    .shop3{
+        margin-left: 55%;
+        margin-top: 10%;
+
+    }
+    .bold2{
+        font-size: 30px; 
+    font-weight:10px
+    }
+    .button5{
+        color: white;
+    background-color: palevioletred;
+    font-size: 120%;
+}
+.paragh{
+    text-align: center;
+    margin-top: 15%;
+}
+.bold3{
+    font-size: 30px;
+    font-weight: 30px; 
+}
+.bold4{
+    font-size: 29px;
+}
+  .bold5{
+    font-size: 18px;
+  }
+  .boot3{
+    width: 1300px;
+    height: 550px;
+  }  
+  .last{
+    margin-left: 02%;
+  }
+  footer{
+    display: flex;
+    gap: 130px;
+}
+.gap{
+    gap: 100%;
+}
